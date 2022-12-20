@@ -45,12 +45,6 @@ public class HowToPlayActivity extends AppCompatActivity implements HowToPlayFra
 
         ActionBar actionBar = getSupportActionBar();
         actionBar.setTitle(getResources().getString(R.string.app_name));
-
-/*        //смартфон в портретном режиме
-        if (findViewById(getFragmentManager(HowToPlayFragment1.class)) != null){
-            FragmentManager manager = this.getSupportFragmentManager();
-            manager.beginTransaction().hide(manager.findFragmentById(R.id.frg_1)).show(R.id.frg_2).commit();
-        }*/
     }
 
     private void loadLocale() {

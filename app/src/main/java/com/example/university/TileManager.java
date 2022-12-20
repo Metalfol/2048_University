@@ -80,15 +80,6 @@ public class TileManager implements TileManagerCallback, Sprite {
                 i--;
             }
         }
-
-/*        for (int i = 0; i < 4; i++) {
-            for (int j = 0; j < 4; j++) {
-                if(i != 3 || j != 3) {
-                    Tile t = new Tile(standardSize, screenWidth, screenHeight, this, i, j, 3 * i + j + 4);
-                    matrix[i][j] = t;
-                }
-            }
-        }*/
     }
 
     //отрисовка изображений с цифрами

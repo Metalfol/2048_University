@@ -59,14 +59,9 @@ public class GameActivity extends AppCompatActivity implements View.OnClickListe
         btnPause = (Button)findViewById(R.id.action_pause);
         switch (id) {
             case R.id.action_menu:
-                //Toast.makeText(GameActivity.this, getString(R.string.action_menu), Toast.LENGTH_LONG).show();
-                //startActivity(new Intent(GameActivity.this, MainActivity.class));
                 startActivity(intent);
                 break;
             case R.id.action_pause:
-                /*Toast.makeText(GameActivity.this, getString(R.string.action_pause), Toast.LENGTH_LONG).show();*/
-                /*Intent intent3 = new Intent(this, GameActivity.class);
-                onPause();*/
                 AlertDialog.Builder builder = new AlertDialog.Builder(GameActivity.this);
                 builder.setTitle("ПАУЗА")
                         .setCancelable(false)
@@ -80,7 +75,6 @@ public class GameActivity extends AppCompatActivity implements View.OnClickListe
                 builder.show();
                 break;
             case R.id.action_settings:
-                //Toast.makeText(GameActivity.this, getString(R.string.action_settings), Toast.LENGTH_LONG).show();
                 showChangeLanguageDialog();
                 break;
             case R.id.action_information:

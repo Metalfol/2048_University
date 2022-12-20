@@ -43,9 +43,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         loadLocale();
         setContentView(R.layout.activity_main);
 
-        SharedPreferences save = getSharedPreferences("Save", MODE_PRIVATE);
-        final int level = save.getInt("Level", 0);
-
         Intent intent = new Intent(this, GameActivity.class);
         Intent intent2 = new Intent(this, HowToPlayActivity.class);
 

@@ -107,7 +107,6 @@ public class GameManager extends SurfaceView implements SurfaceHolder.Callback, 
         super.draw(canvas);
         canvas.drawRGB(60, 179, 113);
         grid.draw(canvas);
-        /*canvas.drawBitmap(menuButton, menuButtonX, menuButtonY, null);*/
         tileManager.draw(canvas);
         score.draw(canvas);
         if (endGame) {
