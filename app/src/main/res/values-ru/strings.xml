@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">2048 Практическая работа</string>
+    <string name="action_menu">Меню</string>
+    <string name="action_pause">Пауза</string>
+    <string name="action_settings">Язык</string>
+    <string name="action_information">Сведения</string>
+    <string name="action_information_dop">Игра разработана в учебных целях!</string>
+    <string name="change_language_1">Выберите язык:</string>
+    <string name="action_restart">Перезапустить</string>
+    <string name="change_language">Выберите язык:</string>
+    <string name="language_ru">Русский</string>
+    <string name="language_en">Английский</string>
+    <string name="MText">2048</string>
+    <string name="DText">Анстасия Ромашкина</string>
+    <string name="main_label">2048 Практическое задание</string>
+    <string name="game_label">Игра</string>
+    <string name="PText">ЗДЕСЬ БУДУТ ИЗМЕНЕНИЯ</string>
+    <string name="button1">СЮРПРИЗ</string>
+    <string name="button2">НОВАЯ ИГРА</string>
+    <string name="button3">КАК ИГРАТЬ</string>
+    <string name="button4">ЯЗЫК</string>
+    <string name="buttonMenu">МЕНЮ</string>
+    <string name="step1">ШАГ 1</string>
+    <string name="step2">ШАГ 2</string>
+    <string name="step3">ШАГ 3</string>
+    <string name="but1text">ПРИВЕТ, ПОЛЬЗОВАТЕЛЬ! =)</string>
+    <string name="but2text">Нажата кнопка 2</string>
+    <string name="but3text">Отображение статистики</string>
+    <string name="but4text">V - 0.0.0.1</string>
+    <string name="title_activity_game_manager">GameManager</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="text1">ПРОВЕДИТЕ, ЧТОБЫ ПЕРЕМЕСТИТЬ ВСЕ ПЛИТКИ</string>
+    <string name="text2_1">КОГДА ДВЕ ПЛИТКИ С ОДНИМ НОМЕРОМ СОЕДИНЯЮТСЯ, ОНИ ОБЪЕДИНЯЮТСЯ В ОДНУ!</string>
+    <string name="text2_2">ИГРА ЗАВЕРШИТСЯ, КОГДА ПОЛЕ ЗАПОЛНИТСЯ</string>
+    <string name="text3">ПРИСОЕДИНЯЙТЕСЬ К ЧИСЛАМ И ДОБЕРИТЕСЬ ДО ПЛИТКИ 2048!</string>
+    <string name="button_text_how_to_play">ДАВАЙТЕ ИГРАТЬ!</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>

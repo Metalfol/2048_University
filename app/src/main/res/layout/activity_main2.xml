@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#3CB371"
+    android:fitsSystemWindows="true"
+    tools:context=".GameActivity">
+
+    <com.example.university.GameManager
+        android:id="@+id/gameManager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </com.example.university.GameManager>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

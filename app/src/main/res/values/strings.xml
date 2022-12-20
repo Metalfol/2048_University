@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">2048 Practical work</string>
+    <string name="action_menu">Menu</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_settings">Language</string>
+    <string name="action_information">Information</string>
+    <string name="action_information_dop">The game is designed for educational purposes!</string>
+    <string name="action_restart">Restart</string>
+    <string name="change_language">Choose language:</string>
+    <string name="change_language_1">Choose language:</string>
+    <string name="language_ru">Russian</string>
+    <string name="language_en">English</string>
+    <string name="MText">2048</string>
+    <string name="DText">Anastasia Romashkina</string>
+    <string name="main_label">2048 Practical work</string>
+    <string name="game_label">Game</string>
+    <string name="PText">THERE WILL BE CHANGES</string>
+    <string name="button1">SURPRISE</string>
+    <string name="button2">NEW GAME</string>
+    <string name="button3">HOW TO PLAY</string>
+    <string name="button4">LANGUAGE</string>
+    <string name="buttonMenu">MENU</string>
+    <string name="step1">STEP 1</string>
+    <string name="step2">STEP 2</string>
+    <string name="step3">STEP 3</string>
+    <string name="but1text">HELLO, USER! =)</string>
+    <string name="but2text">Button 2 pressed</string>
+    <string name="but3text">Display statistics</string>
+    <string name="but4text">V - 0.0.0.1</string>
+    <string name="title_activity_game_manager">GameManager</string>
+    <string name="text1">SWIPE TO MOVE ALL TILES</string>
+    <string name="text2_1">WHEN TWO TILES WITH THE SAME NUMBER TOUCH, THEY MERGE INTO ONE!</string>
+    <string name="text2_2">ITS OVER WHEN THE BOARD FILLS UP...</string>
+    <string name="text3">JOIN THE NUMBERS AND GET TO THE 2048 TILE!</string>
+    <string name="button_text_how_to_play">LETS PLAY!</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

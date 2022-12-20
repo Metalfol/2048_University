@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="endgame_width">300dp</dimen>
+    <dimen name="endgame_height">75dp</dimen>
+    <dimen name="score_label_width">100dp</dimen>
+    <dimen name="score_label_height">15dp</dimen>
+    <dimen name="score_text_size">20sp</dimen>
+    <dimen name="topScore_label_width">100dp</dimen>
+    <dimen name="topScore_label_height">15dp</dimen>
+    <dimen name="menu_button_width">60dp</dimen>
+    <dimen name="menu_button_height">30dp</dimen>
+</resources>
